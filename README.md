@@ -8,9 +8,9 @@
 
 ## Скріншоти
 
-![]()
-![]()
-![]()
+![](https://github.com/Amilenim/OOP-KP/blob/main/tutorly1.png)
+![](https://github.com/Amilenim/OOP-KP/blob/main/tutorly2.png)
+![](https://github.com/Amilenim/OOP-KP/blob/main/tutorly3.png)
 
 ## Milestones
 
