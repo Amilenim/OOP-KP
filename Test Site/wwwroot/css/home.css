@@ -1,0 +1,102 @@
+﻿header .navbar{
+    background-color: #ff7aac !important;
+}  
+
+body{
+    background-color: #ff7aac;
+}
+
+    .image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #teacherleft {
+        width: 27%;
+    }
+
+    #teachertext {
+        width: 6.2%;
+    }
+
+    #teacherright {
+        width: 44%;
+    }
+
+    .hero {
+        text-align: center;
+        padding: 50px 0;
+    }
+
+        .hero select {
+            padding: 10px;
+            border: 2px solid black;
+            width: 220px;
+            cursor: pointer;
+            background-color: transparent;
+        }
+
+        .hero button {
+            padding: 10px 20px;
+            color: black;
+            cursor: pointer;
+            border: 2px solid black;
+            border-radius: 10px;
+            background-color: transparent;
+            font-size: 20px;
+        }
+
+    #tutors {
+        width: 100px;
+        height: auto;
+        margin-right: 20px;
+    }
+
+    #students{
+        width: 110px;
+        height: auto;
+        margin-right: 20px;
+    }
+
+    #reviews{
+        width: 150px;
+        height: auto;
+        margin-right: 20px;
+    }
+
+    .stats {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .spaceinfo {
+        display: flex;
+
+    }
+
+    .stat {
+        text-align: center;
+    }
+ 
+        .stat h2 {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+
+        .stat p {
+            font-size: 25px;
+            color: #262626;
+            margin-bottom: 10px;
+        }
+
+    .benefits {
+        background-color: transparent;
+        padding: 65px;
+        text-align: center;
+    }
+
+        .benefits h3 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }

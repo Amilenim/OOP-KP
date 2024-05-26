@@ -1,0 +1,70 @@
+﻿@using Test_Site.Controllers
+@model ViewProfileViewModel
+
+<link rel="stylesheet" href="~/css/viewprofile.css" asp-append-version="true" />
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        @if (TempData["PasswordHasChanged"] != null)
+        {
+            <div class="alert alert-success" role="alert">
+                @TempData["PasswordHasChanged"]
+            </div>
+        }
+        <h1>Профіль @Model.Name</h1>
+        <div class="container mt-4">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        <button class="btn btn-header active" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="true" style="text-align: left;">Профіль</button>
+                        <button class="btn btn-header mt-2" id="v-pills-orders-tab" data-toggle="pill" href="#v-pills-orders" role="tab" aria-controls="v-pills-orders" aria-selected="false" style="text-align: left;">Історія замовлень</button>
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="tab-content" id="v-pills-tabContent">
+                        <div class="tab-pane fade show active" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                            <div class="profile-container bg-dark" style="border-radius: 15px;">
+                                <h2 style="margin-left: 15px; padding-top: 10px;">Оновити профіль</h2>
+                                <form asp-action="ViewProfile" method="post">
+                                    <div class="form-group">
+                                        <label asp-for="Name">Ім'я:</label>
+                                        <input asp-for="Name" class="form-control" required />
+                                        <span asp-validation-for="Name" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="Email">Електронна пошта:</label>
+                                        <input asp-for="Email" class="form-control" required />
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="PhoneNumber">Мобільний телефон:</label>
+                                        <div class="input-group">
+                                            <input asp-for="PhoneNumber" class="form-control" maxlength="13" required />
+                                        </div>
+                                        <span asp-validation-for="PhoneNumber"></span>
+                                    </div>
+                                    <button type="submit" class="btn btn-dark">Оновити профіль</button>
+                                    <span style="margin-left: 40px"></span>
+                                    <a href="@Url.Action("ChangePassword", "Authorize")" type="submit" class="btn btn-info">Змінити пароль</a>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

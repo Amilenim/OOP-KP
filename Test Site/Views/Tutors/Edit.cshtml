@@ -1,0 +1,68 @@
+﻿@model Test_Site.Models.TutorEditModel
+@using Test_Site.Models.Enum
+<link rel="stylesheet" href="~/css/edit.css" asp-append-version="true" />
+
+<div class="general">
+    <form asp-controller="Tutors" asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" value="@Model.Id" />
+    <div class="form-group">
+        <label asp-for="Subjects" class="control-label"></label>
+        <select asp-for="Subjects" class="form-control">
+            <option value="">Select Subject</option>
+            @foreach (var subject in Enum.GetValues(typeof(Subjects)))
+            {
+                <option value="@subject">@subject</option>
+            }
+        </select>
+        <span asp-validation-for="Subjects" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Education" class="control-label"></label>
+        <input asp-for="Education" class="form-control" />
+        <span asp-validation-for="Education" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Skill" class="control-label"></label>
+        <input asp-for="Skill" class="form-control" />
+        <span asp-validation-for="Skill" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone" class="control-label"></label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Checked" class="control-label"></label>
+        <input asp-for="Checked" type="checkbox" />
+        <span asp-validation-for="Checked" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Trial" class="control-label"></label>
+        <input asp-for="Trial" type="checkbox" />
+        <span asp-validation-for="Trial" class="text-danger"></span>
+    </div>
+    <div class="submit">
+        <button type="submit" class="btn btn-primary">Зберегти</button>
+    </div>
+    </form>
+</div>

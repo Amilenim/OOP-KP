@@ -1,0 +1,42 @@
+﻿@model LoginViewModel
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="general">
+        <div class="profile-general">
+            <h1>Вхід</h1>
+            <form asp-action="Login" method="post">
+                <div class="form-group">
+                    <label asp-for="Email">Електронна пошта:</label>
+                    <input asp-for="Email" class="form-control" required />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password">Пароль:</label>
+                    <input asp-for="Password" class="form-control" required />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-check">
+                    <input asp-for="RememberMe" type="checkbox" class="form-check-input" style="margin-left: -1.2em;" />
+                    <label asp-for="RememberMe" class="form-check-label" style="margin-left: 5px;">Пам'ятати мій вхід</label>
+                </div>
+                <button type="submit" class="btn btn-dark mt-2">Увійти</button>
+
+                @if (!ViewData.ModelState.IsValid)
+                {
+                    <div class="text-white mt-3 rounded form-control" style="word-wrap: break-word; background-color: #893c3c">
+                        @* @Html.ValidationSummary(false, "", new { @class = "text-white bg-dark rounded" }) *@
+                        @if (ViewData.ModelState.ContainsKey(string.Empty))
+                        {
+                            <span><i class="fas fa-exclamation-circle" style="margin-right: 5px;"></i>@ViewData.ModelState[string.Empty].Errors.FirstOrDefault().ErrorMessage</span>
+                        }
+                    </div>
+                }
+            </form>
+        </div>
+    </div>
+</body>

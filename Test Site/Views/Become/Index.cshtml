@@ -1,0 +1,67 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<Person> SignInManager
+
+@{
+    ViewData["Title"] = "Стати репетитором";
+}
+<link rel="stylesheet" href="~/css/become.css" asp-append-version="true" />
+<script src="~/js/become.js"></script>
+
+<div class="general">
+    <div class="left">
+        <p class="header">Працюй на своїх умовах</p>
+        <p class="highlight">Заробляйте на репетиторстві з Tutorly</p>
+        <p class="howcan">Дізнайтесь, скільки ви можете заробляти:</p>
+        <form>
+            <div>
+                <label for="rate">ставка</label>
+                <label for="sessions" class="label-right">занять за тиждень</label>
+            </div>
+            <div class="selects">
+                <select id="rate" name="rate" class="custom-select" onchange="calculateEarnings()">
+                    <option value="0">0 грн/год</option>
+                    <option value="100">100 грн/год</option>
+                    <option value="200">200 грн/год</option>
+                    <option value="300">300 грн/год</option>
+                    <option value="400">400 грн/год</option>
+                    <option value="500">500 грн/год</option>
+                    <option value="600">600 грн/год</option>
+                    <option value="700">700 грн/год</option>
+                    <option value="800">800 грн/год</option>
+                    <option value="900">900 грн/год</option>
+                    <option value="1000">1000 грн/год</option>
+                </select>
+                <select id="sessions" name="sessions" class="custom-select" onchange="calculateEarnings()">
+                    <option value="0">0</option>
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="15">15</option>
+                    <option value="20">20</option>
+                    <option value="25">25</option>
+                    <option value="30">30</option>
+                    <option value="35">35</option>
+                    <option value="40">40</option>
+                </select>
+            </div>
+        </form>
+        <div class="counter">
+            <p><span id="earnings">0</span> грн</p>
+        </div>
+        @{
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <form action="@Url.Action("Create", "Tutors")" method="get">
+                    <button type="submit">Створити портфоліо репетитора</button>
+                </form>
+            }
+            else
+            {
+                <form action="@Url.Action("Register", "Authorize")" method="get">
+                    <button type="submit">Створити портфоліо репетитора</button>
+                </form>
+            }}
+    </div>
+    <div class="right">
+        <img src="~/lib/images/teacherbecome.png" id="teacherbecom">
+    </div>
+</div>

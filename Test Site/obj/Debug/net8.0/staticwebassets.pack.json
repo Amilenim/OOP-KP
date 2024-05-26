@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Test Site.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Test Site.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\css\\become.css",
+      "PackagePath": "staticwebassets\\css\\become.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\css\\create.css",
+      "PackagePath": "staticwebassets\\css\\create.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\css\\edit.css",
+      "PackagePath": "staticwebassets\\css\\edit.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\css\\tutors.css",
+      "PackagePath": "staticwebassets\\css\\tutors.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\images\\5e98067a-bfc4-4353-8039-bc09f0230a05_Снимок экрана 2024-05-25 101438.png",
+      "PackagePath": "staticwebassets\\images\\5e98067a-bfc4-4353-8039-bc09f0230a05_Снимок экрана 2024-05-25 101438.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\images\\6b612860-712c-4457-9752-6428745247c7_Снимок экрана 2024-05-25 101510.png",
+      "PackagePath": "staticwebassets\\images\\6b612860-712c-4457-9752-6428745247c7_Снимок экрана 2024-05-25 101510.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\images\\9bab3480-70ce-4956-818f-cd3a4481b45b_Снимок экрана 2024-05-03 221737.png",
+      "PackagePath": "staticwebassets\\images\\9bab3480-70ce-4956-818f-cd3a4481b45b_Снимок экрана 2024-05-03 221737.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\images\\a610642c-d364-4fc4-a220-bf8aab911888_Снимок экрана 2024-05-02 133234.png",
+      "PackagePath": "staticwebassets\\images\\a610642c-d364-4fc4-a220-bf8aab911888_Снимок экрана 2024-05-02 133234.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\images\\c708dbb1-4d56-4e56-9352-61df088d2040_Снимок экрана 2024-04-29 221729.png",
+      "PackagePath": "staticwebassets\\images\\c708dbb1-4d56-4e56-9352-61df088d2040_Снимок экрана 2024-04-29 221729.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\images\\e8b68aeb-6fe0-4cb0-a3e4-2b6fb75b3d59_Снимок экрана 2024-05-03 221737.png",
+      "PackagePath": "staticwebassets\\images\\e8b68aeb-6fe0-4cb0-a3e4-2b6fb75b3d59_Снимок экрана 2024-05-03 221737.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\images\\f6fb62b2-4a51-45b8-944f-30cbbb75f0f6_изображение_2024-05-25_213303136.png",
+      "PackagePath": "staticwebassets\\images\\f6fb62b2-4a51-45b8-944f-30cbbb75f0f6_изображение_2024-05-25_213303136.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\js\\become.js",
+      "PackagePath": "staticwebassets\\js\\become.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\js\\tutors.js",
+      "PackagePath": "staticwebassets\\js\\tutors.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\images\\reviews.png",
+      "PackagePath": "staticwebassets\\lib\\images\\reviews.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\images\\students.png",
+      "PackagePath": "staticwebassets\\lib\\images\\students.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\images\\teacherbecome.png",
+      "PackagePath": "staticwebassets\\lib\\images\\teacherbecome.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\images\\teacherleft.png",
+      "PackagePath": "staticwebassets\\lib\\images\\teacherleft.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\images\\teacherright.png",
+      "PackagePath": "staticwebassets\\lib\\images\\teacherright.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\images\\teachertext.png",
+      "PackagePath": "staticwebassets\\lib\\images\\teachertext.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\images\\tutors.png",
+      "PackagePath": "staticwebassets\\lib\\images\\tutors.png"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HAI project\\Test Course Project\\Test Course Project\\Test Site\\Test Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Test Site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Test Site.props",
+      "PackagePath": "build\\Test Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Test Site.props",
+      "PackagePath": "buildMultiTargeting\\Test Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Test Site.props",
+      "PackagePath": "buildTransitive\\Test Site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

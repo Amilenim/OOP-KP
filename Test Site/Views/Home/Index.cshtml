@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+
+<div class="image">
+    <img src="~/lib/images/teacherleft.png" id="teacherleft">
+    <img src="~/lib/images/teachertext.png" id="teachertext">
+    <img src="~/lib/images/teacherright.png" id="teacherright">
+</div>
+
+<div class="hero">
+    <form action="@Url.Action("IndexTutors", "Tutors")" method="get">
+        <button type="submit">Розпочати навчання зараз!</button>
+    </form>
+</div>
+
+<div class="stats">
+    <div class="spaceinfo">
+        <img src="~/lib/images/tutors.png" id="tutors">
+        <div class="stat">
+            <h2>100,000+</h2>
+            <p>репетитори</p>
+        </div>
+    </div>
+
+    <div class="spaceinfo">
+        <img src="~/lib/images/students.png" id="students">
+        <div class="stat">
+            <h2>1,000,000+</h2>
+            <p>студентів</p>
+        </div>
+    </div>
+
+    <div class="spaceinfo">
+        <img src="~/lib/images/reviews.png" id="reviews">
+        <div class="stat">
+            <h2>150,000+</h2>
+            <p>відгуків</p>
+        </div>
+    </div>
+</div>
+
+<div class="benefits">
+    <h3>Ви полюбите навчання. Гарантовано.</h3>
+</div>

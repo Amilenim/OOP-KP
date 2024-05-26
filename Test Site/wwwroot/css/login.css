@@ -1,0 +1,27 @@
+﻿.btn-custom {
+    background-color: #ff7aac;
+    border-color: #ff7aac;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #e0668f;
+    border-color: #e0668f;
+}
+
+.general {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    height: 45vh;
+}
+
+.profile-general {
+    width: 500px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
